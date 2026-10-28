@@ -86,22 +86,20 @@ Major: Plant Production – Horticulture
 
 | Project | Tools | Description |
 |---|---|---|
-| [HR Analytics Dashboard](#) | Excel, PivotTables, Charts | Analyzed employee demographics, departments, salaries, performance, and attendance indicators through an interactive dashboard. |
-| [Sales Dashboard](#) | Excel, PivotTables, Charts | Analyzed sales performance, revenue trends, and key business indicators using interactive visualizations. |
-| [Supply Chain Analytics Dashboard](#) | Excel, PivotTables, Charts | Analyzed revenue, profit, orders, supplier ratings, delivery days, and warehouse capacity to monitor supply chain performance. |
+| [HR Analytics Dashboard](https://github.com/sedecagamal18-collab/HR-Dashboard) | Excel, PivotTables, Charts | Analyzed employee demographics, departments, salaries, performance, and attendance indicators through an interactive dashboard. |
+| [Sales Dashboard](https://github.com/sedecagamal18-collab/Sales_Dashboard) | Excel, PivotTables, Charts | Analyzed sales performance, revenue trends, and key business indicators using interactive visualizations. |
+| [Supply Chain Analytics Dashboard](https://github.com/sedecagamal18-collab/Supply-Chain-Dashboard) | Excel, PivotTables, Charts | Analyzed revenue, profit, orders, supplier ratings, delivery days, and warehouse capacity to monitor supply chain performance. |
 
 ### 🐍 Python Projects
 
 | Project | Tools | Description |
 |---|---|---|
-| [Agriculture Data Analysis](#) | Python, Pandas | Cleaned and analyzed agricultural data, performed EDA, and created visualizations to identify patterns and generate insights. |
-| [Housing Prices Analysis](#) | Python, Pandas, Data Visualization | Analyzed Egyptian housing prices, explored property characteristics, compared property types, and investigated relationships between housing features and prices. |
-| [Spotify Data Analysis](#) | Python, Pandas, Plotly | Analyzed music popularity, streaming counts, genres, artists, and audio features. Developed an interactive HTML dashboard to present key findings. |
-| [Mercedes-Benz Data Analysis](#) | Python, Pandas, Plotly | Analyzed vehicle prices, mileage, production years, fuel types, transmission types, and engine specifications. Created an interactive HTML dashboard to present key metrics and insights. |
-| [Car Sales Data Analysis](#) | Python, Pandas, Matplotlib | Cleaned car sales data and analyzed brands, models, fuel types, production years, mileage, and prices using data visualizations. |
-| [Laptops & Mobile Phones Analysis](#) | Python, Pandas | Cleaned and prepared product data, analyzed sales quantities, revenue, product brands, and stock duration, and explored product-related patterns. |
-
-> **Note:** Replace the `#` placeholders with the actual GitHub repository URLs for each project.
+| [Agriculture Data Analysis](https://github.com/sedecagamal18-collab/Agriculture_Data_Analysis) | Python, Pandas, Matplolip | Cleaned and analyzed agricultural data, performed EDA, and created visualizations to identify patterns and generate insights. |
+| [Housing Prices Analysis](https://github.com/sedecagamal18-collab/Housing_Prices_Analysis) | Python, Pandas, Data Visualization | Analyzed Egyptian housing prices, explored property characteristics, compared property types, and investigated relationships between housing features and prices. |
+| [Spotify Data Analysis](https://github.com/sedecagamal18-collab/Spotify-Data-Analysis) | Python, Pandas, Seaborn, Matplotlip, Plotly | Analyzed music popularity, streaming counts, genres, artists, and audio features. Developed an interactive HTML dashboard to present key findings. |
+| [Mercedes-Benz Data Analysis](#) | Python, Pandas, Seaborn, Matplotlip, Plotly | Analyzed vehicle prices, mileage, production years, fuel types, transmission types, and engine specifications. Created an interactive HTML dashboard to present key metrics and insights. |
+| [Car Sales Data Analysis](https://github.com/sedecagamal18-collab/Car_Sales_Analysis) | Python, Pandas, Matplotlib | Cleaned car sales data and analyzed brands, models, fuel types, production years, mileage, and prices using data visualizations. |
+| [Laptops & Mobile Phones Analysis](https://github.com/sedecagamal18-collab/Laptops_Mobiles_Analysis) | Python, Pandas | Cleaned and prepared product data, analyzed sales quantities, revenue, product brands, and stock duration, and explored product-related patterns. |
 
 ---
 
