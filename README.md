@@ -25,8 +25,7 @@ I work on data cleaning, exploratory data analysis (EDA), data visualization, an
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?logo=github&logoColor=white)](https://github.com/sedecagamal18-collab)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:sedecagamal18@gmail.com)
 
-**Email:** sedecagamal18@gmail.com  
-**Phone:** 01118031454  
+**Email:** sedecagamal18@gmail.com   
 **Location:** Giza, Egypt
 
 ---
